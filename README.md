@@ -13,6 +13,15 @@
 - Недельная сводка, история событий и упрощённый доступный вид.
 - Отдельная cookie-сессия для каждой демо-доски.
 
+## Общий вид
+<img width="2306" height="4010" alt="trekersvoi-production up railway app_ (1)" src="https://github.com/user-attachments/assets/53989e41-e773-4aae-91aa-6267ca702db3" />
+
+## Есть место для аналитики
+<img width="1096" height="860" alt="Снимок экрана 2026-11-10 в 19 09 51 (1)" src="https://github.com/user-attachments/assets/32b1206f-15be-4483-aa0b-25d0a84e2bfc" />
+
+## Упрощенный режим (для более старших)
+<img width="1058" height="874" alt="Снимок экрана 2026-11-10 в 19 10 20" src="https://github.com/user-attachments/assets/a352623e-6e11-45cc-a491-93d4f3ae9d29" />
+
 Все имена и задачи в приложении вымышлены. Не вводите реальные персональные или медицинские данные.
 
 ## Инструкция для клиента
